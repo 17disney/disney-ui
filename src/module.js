@@ -27,6 +27,9 @@ import Swipe from './modules/swipe'
 import BScroll from './modules/better-scroll'
 import createAPI from './modules/create-api'
 
+import Navbar from './modules/navbar'
+import TabItem from './modules/tab-item'
+
 const Picker = TimePicker.Picker
 const Checkbox = CheckboxGroup.Checkbox
 const Loading = Toast.Loading
@@ -64,5 +67,7 @@ export {
   Swipe,
   SwipeItem,
   BScroll,
-  createAPI
+  createAPI,
+  Navbar,
+  TabItem
 }

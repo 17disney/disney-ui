@@ -1,21 +1,23 @@
-# disney-ui
+# cube-ui [![Build Status](https://travis-ci.org/17disney/disney-ui.svg?branch=master)](https://travis-ci.org/17disney/disney-ui?branch=master) [![codecov.io](http://codecov.io/github/17disney/disney-ui/coverage.svg?branch=master)](http://codecov.io/github/17disney/disney-ui?branch=master)
 
-### Install
+> 17Disney App VUE 组件库
+
+### 安装
 
 ```shell
-npm install cube-ui --save
+npm install disney-ui --save
 ```
 
-### Usage
+### 使用
 
 ```js
 import Vue from 'vue'
-import Cube from 'cube-ui'
+import Ds from 'disney-ui'
 
-Vue.use(Cube)
+Vue.use(Ds)
 ```
 
-#### Use modularized cube-ui
+#### 按需使用
 
 ```js
 import Vue from 'vue'
@@ -24,7 +26,7 @@ import {
   Style,
   Button,
   ActionSheet
-} from 'cube-ui'
+} from 'disney-ui'
 
 Vue.use(Button)
 Vue.use(ActionSheet)
@@ -33,12 +35,11 @@ Vue.use(ActionSheet)
 ### Development
 
 ```shell
+git clone git@github.com:didi/cube-ui.git
+cd cube-ui
 npm install
 npm run dev
 # or run document development
 npm run doc-dev
 ```
 
-### Changelog
-
-Detailed changes for each release are documented in the [release notes](https://github.com/didi/cube-ui/releases).

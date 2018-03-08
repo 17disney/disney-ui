@@ -1,6 +1,6 @@
 {
   "name": "disney-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A disney ui for mobile, cube-ui",
   "main": "lib/index.js",
   "module": "src/index.js",

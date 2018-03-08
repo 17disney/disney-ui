@@ -27,6 +27,7 @@ import Validator from '../pages/validator.vue'
 import Swipe from '../pages/swipe/index.vue'
 import SwipeDefault from '../pages/swipe/default.vue'
 import SwipeCustom from '../pages/swipe/custom.vue'
+import Tab from '../pages/tab.vue'
 
 const routes = [
   {
@@ -64,6 +65,10 @@ const routes = [
   {
     path: '/loading',
     component: Loading
+  },
+  {
+    path: '/tab',
+    component: Tab
   },
   {
     path: '/tip',

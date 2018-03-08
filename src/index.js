@@ -22,7 +22,9 @@ import {
   Upload,
   Swipe,
   BScroll,
-  createAPI
+  createAPI,
+  Navbar,
+  TabItem
 } from './module'
 
 function install(Vue) {
@@ -52,7 +54,9 @@ function install(Vue) {
     Scroll,
     Popup,
     Upload,
-    Swipe
+    Swipe,
+    Navbar,
+    TabItem
   ]
   components.forEach((Component) => {
     Component.install(Vue)
@@ -61,7 +65,7 @@ function install(Vue) {
 
 const cube = {
   /* eslint-disable no-undef */
-  version: __VERSION__,
+  // version: __VERSION__,
   install,
   BScroll,
   createAPI

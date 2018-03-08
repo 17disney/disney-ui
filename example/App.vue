@@ -64,6 +64,10 @@
             text: 'Loading'
           },
           {
+            path: '/tab',
+            text: 'Tab'
+          },
+          {
             path: '/tip',
             text: 'Tip'
           },
