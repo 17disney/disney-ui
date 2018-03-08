@@ -24,7 +24,7 @@ import {
   BScroll,
   createAPI,
   Navbar,
-  TabItem
+  Tab
 } from './module'
 
 function install(Vue) {
@@ -56,7 +56,7 @@ function install(Vue) {
     Upload,
     Swipe,
     Navbar,
-    TabItem
+    Tab
   ]
   components.forEach((Component) => {
     Component.install(Vue)

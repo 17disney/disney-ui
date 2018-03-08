@@ -16,8 +16,7 @@
   }
 
   .ds-tab__item {
-    padding: 17px 0;
-    font-size: 18px;
+    padding: 16px;
     border-bottom: 3px solid $color-light-grey-s;
     color: $color-primary;
 
@@ -50,7 +49,6 @@ export default {
     fixed: Boolean,
     value: {}
   }
-};
+}
 </script>
-
 

@@ -1,14 +1,33 @@
 <style lang="stylus" rel="stylesheet/stylus">
+.tab-view .content > * {
+  margin: 10px 0;
+}
 </style>
 
 <template>
   <cube-page type="tab-view" title="Tab" desc="">
-    <div slot="content">
-
-      <ds-navbar class="page-part" v-model="selected">
+    <template slot="content">
+      <p>Default tab</p>
+      <ds-navbar v-model="selected">
         <ds-tab-item id="1">选项一</ds-tab-item>
         <ds-tab-item id="2">选项二</ds-tab-item>
         <ds-tab-item id="3">选项三</ds-tab-item>
+      </ds-navbar>
+
+      <p>Scroll tab</p>
+
+      <ds-navbar>
+        <ds-tab-scroll ref="scroll" :list="attTypeTab.list" v-model="attTypeTab.selectedId">
+          <ds-tab-item :key="item.id" :id="item.id" v-for="item in attTypeTab.list">{{item.name}}</ds-tab-item>
+        </ds-tab-scroll>
+      </ds-navbar>
+
+      <p>ATT tab</p>
+
+      <ds-navbar>
+        <ds-tab-scroll :picker="true" @change="change" ref="scroll" :options="options" v-model="attTypeTab.selectedId">
+          <ds-tab-item :key="item.id" :id="item.id" v-for="item in attTypeTab.list">{{item.name}}</ds-tab-item>
+        </ds-tab-scroll>
       </ds-navbar>
 
       <!-- <div>
@@ -27,23 +46,38 @@
         </ds-tab-container-item>
       </ds-tab-container> -->
 
-    </div>
+    </template>
   </cube-page>
 </template>
 
 <script type="text/ecmascript-6">
 import CubePage from 'example/components/cube-page.vue'
+import { attTypeTab } from '../data/park'
 
 export default {
   data() {
     return {
-      selected: '1'
+      selected: '1',
+      attTypeTab,
+      options: {
+        probeType: 2
+        // wheel: {
+        //   // selectedIndex: this.pickerSelectedIndex[i],
+        //   /** 默认值就是下面配置的两个，为了展示二者的作用，这里再配置一下 */
+        //   wheelWrapperClass: 'scroll-wrapper',
+        //   wheelItemClass: 'da-tab__item'
+        // }
+      }
     }
   },
   mounted() {
 
   },
   methods: {
+
+    change: function (propName, newVal, oldVal) {
+      this.attTypeTab.selectedId = newVal
+    }
 
   },
   components: {
