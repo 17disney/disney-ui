@@ -11,7 +11,7 @@
     position: relative;
   }
 
-  &.is-picker {
+  &.is-wheel {
     .scroll-content {
       // margin-left: 50%;
     }
@@ -41,7 +41,7 @@
 </style>
 
 <template>
-  <div class="ds-tab-scroll" :class="{'is-picker': picker}">
+  <div class="ds-tab-scroll" :class="{'is-wheel': wheel}">
     <div class="scroll-wrapper" ref="scroll">
       <div class="scroll-content" ref="tabList">
         <slot></slot>
@@ -67,11 +67,8 @@ export default {
     list: {
       type: Array
     },
-    picker: {
+    wheel: {
       type: Boolean
-    },
-    options: {
-      type: Object
     }
   },
 
@@ -100,12 +97,14 @@ export default {
         scrollX: true,
         scrollY: false
       }
-      if (this.picker) {
-        options.probeType = 3
+      if (this.wheel) {
+        // options.probeType = 3
         options.horWheel = {
           tabListPosition: this.tabListX
         }
         // options.startX = -this.viewWidth / 2
+      } else {
+        options.initScrollWidth = true
       }
       Object.assign(options, this.options)
       this.scroll = new BScroll(this.$refs.scroll,
@@ -113,14 +112,12 @@ export default {
       )
 
       this.scroll.on('scrollEnd', (con) => {
-        let { x } = con
         // this._activeItem(x)
-        // this.$emit(EVENT_CHANGE, this.scroll.getSelectedIndex())
+        // this.$emit(EVENT_CHANGE, index)
+        this.$emit(EVENT_CHANGE, this.scroll.getSelectedIndex())
       })
-      this.scroll.on('scroll', (con) => {
-        let { index } = con
-        this.$emit(EVENT_CHANGE, index)
-        // this.$emit(EVENT_CHANGE, this.scroll.getSelectedIndex())
+      this.scroll.on('scroll', () => {
+        this.$emit(EVENT_CHANGE, this.scroll.getSelectedIndex())
       })
     },
 

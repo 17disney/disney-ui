@@ -6,6 +6,13 @@ const attType = [
     showTab: false
   },
   {
+    name: '周围景点',
+    id: 'entertainment-venue',
+    icon: '',
+    showTab: false
+  },
+
+  {
     name: '主题园区',
     id: 'land',
     icon: '',
@@ -23,12 +30,7 @@ const attType = [
     icon: 'entertainment',
     showTab: true
   },
-  {
-    name: '周围景点',
-    id: 'entertainment-venue',
-    icon: '',
-    showTab: false
-  },
+
   {
     name: '餐饮',
     id: 'restaurant',
