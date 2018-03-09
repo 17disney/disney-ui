@@ -71,6 +71,8 @@ export default {
     font-size: 100%
     color: $radio-color
     background-color: $radio-bgc
+    .cube-radio-ui
+      background-color: $color-light-grey-sss
     &[data-pos="right"]
       .cube-radio-ui
         margin-right: 0
