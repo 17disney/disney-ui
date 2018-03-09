@@ -27,7 +27,7 @@ const attType = [
     name: '周围景点',
     id: 'entertainment-venue',
     icon: '',
-    showTab: true
+    showTab: false
   },
   {
     name: '餐饮',
@@ -42,40 +42,46 @@ const attType = [
     showTab: true
   },
   {
+    name: '洗手间',
+    id: 'fadsgfad',
+    icon: 'restrooms',
+    showTab: true
+  },
+  {
+    name: '迪士尼乐拍通',
+    id: 'fadsgfad3sadf2',
+    icon: 'photo-pass-plus',
+    showTab: true
+  },
+  {
     name: '主题活动',
     id: 'event',
     icon: 'tours-events',
     showTab: true
   },
   {
+    name: '游客服务',
+    id: 'evenadsfsfdt',
+    icon: 'information',
+    showTab: true
+  },
+  {
     name: '酒店',
     id: 'resort',
-    icon: '',
+    icon: 'resorts',
+    showTab: true
+  },
+  {
+    name: '休闲活动',
+    id: 'playsfd',
+    icon: 'disneyland-recreation',
     showTab: true
   },
   {
     name: '主题乐园',
     id: 'theme-park',
     icon: '',
-    showTab: true
-  },
-  {
-    name: '迪士尼乐拍通',
-    id: 'lepaitong',
-    icon: '',
-    showTab: true
-  },
-  {
-    name: '导览服务',
-    id: 'lepaitong1',
-    icon: '',
-    showTab: true
-  },
-  {
-    name: '游客服务',
-    id: 'lepaitong2',
-    icon: '',
-    showTab: true
+    showTab: false
   }
   // {
   //   name: 'The BOATHOUSE™',
@@ -128,7 +134,8 @@ exports.attHotList = attHotList
 exports.attType = attType
 exports.attTypeTab = {
   list: attType.filter(_ => _.showTab),
-  selectedId: 'attraction'
+  selectedId: 'attraction',
+  selectedIndex: 0
 }
 
 exports.attTypeIcon = (function() {

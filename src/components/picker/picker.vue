@@ -34,7 +34,8 @@
 </template>
 
 <script type="text/ecmascript-6">
-  import BScroll from 'better-scroll'
+  // import BScroll from 'better-scroll'
+  import BScroll from '../../../../better-scroll/src'
   import CubePopup from '../popup/popup.vue'
   import apiMixin from '../../common/mixins/api'
 

@@ -30,6 +30,7 @@ import createAPI from './modules/create-api'
 import Navbar from './modules/navbar'
 // import TabItem from './modules/tab-item'
 import Tab from './components/tab'
+import Icon from './components/icon'
 
 const Picker = TimePicker.Picker
 const Checkbox = CheckboxGroup.Checkbox
@@ -70,5 +71,6 @@ export {
   BScroll,
   createAPI,
   Navbar,
-  Tab
+  Tab,
+  Icon
 }

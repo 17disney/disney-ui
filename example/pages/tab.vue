@@ -14,20 +14,23 @@
         <ds-tab-item id="3">选项三</ds-tab-item>
       </ds-navbar>
 
-      <p>Scroll tab</p>
+      <!-- <p>Scroll tab</p>
 
       <ds-navbar>
         <ds-tab-scroll ref="scroll" :list="attTypeTab.list" v-model="attTypeTab.selectedId">
           <ds-tab-item :key="item.id" :id="item.id" v-for="item in attTypeTab.list">{{item.name}}</ds-tab-item>
         </ds-tab-scroll>
-      </ds-navbar>
+      </ds-navbar> -->
 
       <p>ATT tab</p>
-
-      <ds-navbar>
-        <ds-tab-scroll :picker="true" @change="change" ref="scroll" :options="options" v-model="attTypeTab.selectedId">
+      <ds-navbar :wheel="true">
+        <ds-tab-scroll :list="attTypeTab.list" :picker="true" @change="change" ref="scroll" :options="options" v-model="selectedId">
           <ds-tab-item :key="item.id" :id="item.id" v-for="item in attTypeTab.list">{{item.name}}</ds-tab-item>
         </ds-tab-scroll>
+        <div slot="focus-icon">
+          <ds-icon :name="selectedIcon"></ds-icon>
+        </div>
+
       </ds-navbar>
 
       <!-- <div>
@@ -70,13 +73,21 @@ export default {
       }
     }
   },
+  computed: {
+    selectedId() {
+      return attTypeTab['list'][attTypeTab.selectedIndex]['id']
+    },
+    selectedIcon() {
+      return attTypeTab['list'][attTypeTab.selectedIndex]['icon']
+    }
+  },
   mounted() {
 
   },
   methods: {
 
-    change: function (propName, newVal, oldVal) {
-      this.attTypeTab.selectedId = newVal
+    change: function (newVal, oldVal) {
+      this.attTypeTab.selectedIndex = newVal
     }
 
   },
