@@ -109,10 +109,11 @@
         }
       },
       _borderIconClass() {
-        return this.shape === 'square' ? 'cubeic-square-border' : 'cubeic-round-border'
+        return this.shape === 'square' ? 'icon--pep icon__empty-checkbox' : 'cubeic-round-border'
       },
       _rightIconClass() {
-        return this.shape === 'square' ? 'cubeic-square-right' : 'cubeic-right'
+        // icon--pep icon__checkmark selected-solid-checkbox empty-checkbox
+        return this.shape === 'square' ? 'icon--pep icon__selected-solid-checkbox' : 'cubeic-right'
       }
     }
   }
@@ -162,32 +163,25 @@
     margin-right: $ui-width - 1em
     line-height: 1
     border-radius: 50%
-    &.cubeic-square-border
-      border-radius: 2px
-    &::before, i
-      transition: all .2s
+    // &.cubeic-square-border
+      // border-radius: 2px
     &::before
       color: $checkbox-icon-color
       display: inline-block
-      transform: scale(1.2)
     i
       position: absolute
       top: 0
       left: 0
       color: transparent
-      transform: scale(.4)
   .cube-checkbox_checked
     .cube-checkbox-ui
       &::before
         color: transparent
       i
         color: $checkbox-checked-icon-color
-        transform: scale(1.23)
   .cube-checkbox_disabled
     .cube-checkbox-ui
       background-color: $checkbox-disabled-icon-bgc
-      &::before, i
-        transition: none
       &::before
         color: transparent
       i
