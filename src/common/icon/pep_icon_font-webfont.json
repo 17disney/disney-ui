@@ -1,0 +1,3426 @@
+{
+  "icons": [
+    {
+      "name": "disney",
+      "id": "icon__cta",
+      "unicode": "25A2",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-resort",
+      "unicode": "e001",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__california-adventure",
+      "unicode": "e002",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-paris",
+      "unicode": "e003",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__shanghai-disney-resort",
+      "unicode": "e004",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__hong-kong-disney",
+      "unicode": "e005",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__tokyo-disney",
+      "unicode": "e006",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__aulani-resort-hawaii",
+      "unicode": "e007",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__adventure-by-disney",
+      "unicode": "e008",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-park-generic-castle",
+      "unicode": "e009",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__leadership",
+      "unicode": "e00a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__selection-training",
+      "unicode": "e00b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__quality-service",
+      "unicode": "e00c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__brand-royalty",
+      "unicode": "e00d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__creativity-innovate",
+      "unicode": "e00e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__business-excellence",
+      "unicode": "e00f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__medical-excellence",
+      "unicode": "e010",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__catalogs",
+      "unicode": "e011",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-park",
+      "unicode": "e012",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disneyland-resort",
+      "unicode": "e013",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__city-hall-services",
+      "unicode": "e014",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__hkdl-magic-access",
+      "unicode": "e015",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__downtown-disney",
+      "unicode": "e016",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wedding-engagements",
+      "unicode": "e017",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__weddings-ever-after-blog",
+      "unicode": "e018",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__weddings-bridal-boutique",
+      "unicode": "e019",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__shdr-disneytown",
+      "unicode": "e01a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__shdr-wishing-star-park",
+      "unicode": "e01b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__shop-disney-parks-bag",
+      "unicode": "e01d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__all-parks-and-resorts",
+      "unicode": "e040",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__magic-kingdom",
+      "unicode": "e041",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__epcot",
+      "unicode": "e042",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__animal-kingdom",
+      "unicode": "e043",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__hollywood-studios",
+      "unicode": "e044",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__typhoon-lagoon",
+      "unicode": "e045",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__blizzard-beach",
+      "unicode": "e046",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-springs",
+      "unicode": "e047",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__espn-wide-world-sports",
+      "unicode": "e048",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__resorts",
+      "unicode": "e049",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-beach-resorts",
+      "unicode": "e04a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-boardwalk",
+      "unicode": "e04b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__all-categories",
+      "unicode": "e04c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__cirque-du-soleil-la-nouba",
+      "unicode": "e04d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-cruise-line",
+      "unicode": "e080",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dcl-our-ships",
+      "unicode": "e081",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dcl-destinations",
+      "unicode": "e082",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dcl-onboard-fun",
+      "unicode": "e083",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dcl-new-cruisers",
+      "unicode": "e084",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dcl-port-adventures",
+      "unicode": "e085",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__app-instructions",
+      "unicode": "e086",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__featured-article",
+      "unicode": "e087",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__drink-of-the-day",
+      "unicode": "e088",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__view-folio",
+      "unicode": "e08a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__key-to-the-world",
+      "unicode": "e08b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__in-room-entertainment",
+      "unicode": "e08c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__ship-directory",
+      "unicode": "e08d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__theatre",
+      "unicode": "e08e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disembarkation",
+      "unicode": "e08f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__security-notice",
+      "unicode": "e095",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__room-upgrade",
+      "unicode": "e098",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__castaway-club-member",
+      "unicode": "e09a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__cart-empty",
+      "unicode": "e0c0",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__cart-full",
+      "unicode": "e0c1",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__tickets",
+      "unicode": "e0c2",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__fastpass-plus",
+      "unicode": "e0c3",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__fastpasses-set",
+      "unicode": "e0c4",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__fastpasses-copy-set",
+      "unicode": "e0c5",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__cancel-fastpasses",
+      "unicode": "e0c6",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__water-park",
+      "unicode": "e0c7",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__vacation-packages",
+      "unicode": "e0c8",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__personal-magic",
+      "unicode": "e0c9",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__florida-resident",
+      "unicode": "e0ca",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-vacation-club-info",
+      "unicode": "e0cb",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__annual-passholder",
+      "unicode": "e0cc",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__us-military",
+      "unicode": "e0cd",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__special-offers",
+      "unicode": "e0ce",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__booking-rooms-packages",
+      "unicode": "e0cf",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__old-fastpass",
+      "unicode": "e0d0",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__certificate",
+      "unicode": "e0d1",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__will-call-tickets",
+      "unicode": "e0d2",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__entrance-pass",
+      "unicode": "e0d3",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__guest-pass",
+      "unicode": "e0d4",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__city-pass",
+      "unicode": "e0d5",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__california",
+      "unicode": "e0d6",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__southern-california",
+      "unicode": "e0d7",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__etickets",
+      "unicode": "e0d8",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__compare-offers",
+      "unicode": "e0d9",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__baja-california-resident",
+      "unicode": "e0da",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__area-attractions",
+      "unicode": "e0db",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__anaheim-resort-transit",
+      "unicode": "e0dc",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__edit-fastpass",
+      "unicode": "e0dd",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__in-park-merchandise",
+      "unicode": "e0e0",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__travel-insurance",
+      "unicode": "e0e1",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__texas-resident",
+      "unicode": "e0e2",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__candian-resident",
+      "unicode": "e0e3",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__add-tickets",
+      "unicode": "e0e4",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__splurge",
+      "unicode": "e0e5",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disneyland-annual-passes",
+      "unicode": "e0e6",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dlr-tickets-passes",
+      "unicode": "e0e7",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__get-vacation-offer-recommended",
+      "unicode": "e0e8",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__get-vacation-offer-guest-created",
+      "unicode": "e0e9",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__shdr-fastpass",
+      "unicode": "e0ea",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__currency-convertor",
+      "unicode": "e0eb",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__call-to-buy-tickets",
+      "unicode": "e0ec",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wdw-tickets-and-passes",
+      "unicode": "e0ed",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__mdx",
+      "unicode": "e100",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__about-me",
+      "unicode": "e101",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__friends-family",
+      "unicode": "e102",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__account-settings",
+      "unicode": "e103",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__magicbands",
+      "unicode": "e104",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__magic-cards",
+      "unicode": "e105",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__pin-payment-methods",
+      "unicode": "e106",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__communication-references",
+      "unicode": "e107",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wishlist",
+      "unicode": "e108",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__link-existing-reservation",
+      "unicode": "e109",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__link-mdx-resort-reservations",
+      "unicode": "e110",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__link-mdx-dining-reservations",
+      "unicode": "e111",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__guest-entered-schedule-item",
+      "unicode": "e10a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__birthday",
+      "unicode": "e10b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__memory-maker",
+      "unicode": "e10c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__memory-maker-2",
+      "unicode": "e10d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__passes-and-memberships",
+      "unicode": "e10e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__link-mdx-tickets-passes",
+      "unicode": "e10f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__all-activities",
+      "unicode": "e140",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__attractions",
+      "unicode": "e141",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__characters",
+      "unicode": "e142",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__entertainment",
+      "unicode": "e143",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__tours-events",
+      "unicode": "e144",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__in-park-shopping",
+      "unicode": "e145",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__spas",
+      "unicode": "e146",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__tour",
+      "unicode": "e14c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__spring-break",
+      "unicode": "e14d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dining",
+      "unicode": "e180",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dining-plan",
+      "unicode": "e181",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dining-plan-accepted",
+      "unicode": "e182",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dining-plan-not-accepted",
+      "unicode": "e183",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dining-reservation",
+      "unicode": "e184",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__menu",
+      "unicode": "e185",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__prix-fixe-qsr",
+      "unicode": "e186",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__prix-fixe-tsr",
+      "unicode": "e187",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__entrees-qsr",
+      "unicode": "e188",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__entrees-tsr",
+      "unicode": "e189",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__beverages",
+      "unicode": "e18a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wine",
+      "unicode": "e18b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__beer",
+      "unicode": "e18c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__cocktails",
+      "unicode": "e18d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__appetizers",
+      "unicode": "e18e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__sandwiches",
+      "unicode": "e18f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__beef-pork-chicken",
+      "unicode": "e190",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__seafood",
+      "unicode": "e191",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__pasta",
+      "unicode": "e192",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__salads",
+      "unicode": "e193",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__sides",
+      "unicode": "e194",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__desserts",
+      "unicode": "e195",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__buffet",
+      "unicode": "e196",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__favorites",
+      "unicode": "e197",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__kids-picks",
+      "unicode": "e198",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__featured-items",
+      "unicode": "e199",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__nutritional",
+      "unicode": "e19a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__nutritional-information",
+      "unicode": "e19b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__gluten-free",
+      "unicode": "e19c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dairy-free",
+      "unicode": "e19d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__character-dining",
+      "unicode": "e19e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__mockey-food-seal",
+      "unicode": "e19f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__priority-seating",
+      "unicode": "e1a1",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__vegetarian",
+      "unicode": "e1a2",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__raw-food",
+      "unicode": "e1a3",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__guest-favorite-food",
+      "unicode": "e1a4",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__sports-recreation",
+      "unicode": "e1c0",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__campfire",
+      "unicode": "e1c1",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__snorkeling",
+      "unicode": "e1c2",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__swimming",
+      "unicode": "e1c3",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__boating",
+      "unicode": "e1c4",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__running",
+      "unicode": "e1c5",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__fitness-room",
+      "unicode": "e1c6",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__game",
+      "unicode": "e1c7",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__shuffleboard",
+      "unicode": "e1c8",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__parasailing",
+      "unicode": "e1c9",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__playground",
+      "unicode": "e1ca",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__horseback-riding",
+      "unicode": "e1cb",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__pool-tables",
+      "unicode": "e1cc",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__fishing",
+      "unicode": "e1cd",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__volleyball",
+      "unicode": "e1ce",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__basketball",
+      "unicode": "e1cf",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__cycling",
+      "unicode": "e1d0",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__explore",
+      "unicode": "e1d1",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disneyland-recreation",
+      "unicode": "e1d2",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__baseball",
+      "unicode": "e1d4",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__field-hockey",
+      "unicode": "e1d5",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__football",
+      "unicode": "e1d6",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__gymnastics",
+      "unicode": "e1d7",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__lacrosse",
+      "unicode": "e1d8",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__crosscountry",
+      "unicode": "e1d9",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__soccer",
+      "unicode": "e1da",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__softball-fastpitch",
+      "unicode": "e1db",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__softball-slowpitch",
+      "unicode": "e1dc",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__track-field",
+      "unicode": "e1dd",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__tennis-court",
+      "unicode": "e1de",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__generic-sports",
+      "unicode": "e1df",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__maps",
+      "unicode": "e200",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__guest-services",
+      "unicode": "e201",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__concierge",
+      "unicode": "e202",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__resort-checkin",
+      "unicode": "e203",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__celebration",
+      "unicode": "e204",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__aeds",
+      "unicode": "e205",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__smoking-area",
+      "unicode": "e206",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__no-smoking",
+      "unicode": "e207",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__lost-found",
+      "unicode": "e208",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__baby-care-center",
+      "unicode": "e209",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__currency-exchange",
+      "unicode": "e20a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__atm",
+      "unicode": "e20b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__restrooms",
+      "unicode": "e20c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__first-aid",
+      "unicode": "e20d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__laundry",
+      "unicode": "e20e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__valet",
+      "unicode": "e20f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__in-room-babysitting",
+      "unicode": "e210",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__business-center",
+      "unicode": "e211",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__cabanas",
+      "unicode": "e212",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__ecv",
+      "unicode": "e213",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__strollers",
+      "unicode": "e214",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__parking-lot",
+      "unicode": "e215",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__kennel",
+      "unicode": "e216",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__package-pick-up",
+      "unicode": "e217",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__gas-station",
+      "unicode": "e218",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__pin-trading",
+      "unicode": "e219",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__translation-devices",
+      "unicode": "e21a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wedding-ceremonies",
+      "unicode": "e21b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__resort-amenties",
+      "unicode": "e21c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__moveis-under-the-stars",
+      "unicode": "e21d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__kodak-picture-spot",
+      "unicode": "e21e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__locker-rentals",
+      "unicode": "e21f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__here-now",
+      "unicode": "e220",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__current-location",
+      "unicode": "e221",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__supervise-children",
+      "unicode": "e222",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__rider-swap",
+      "unicode": "e223",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__service-dog",
+      "unicode": "e224",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__free-disney-wifi",
+      "unicode": "e225",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__generic-wifi",
+      "unicode": "e226",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__location-pin",
+      "unicode": "e22b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__picnic-area",
+      "unicode": "e230",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__nikon-picture-spot",
+      "unicode": "e236",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__atm-2",
+      "unicode": "e237",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__drinking-fountains",
+      "unicode": "e238",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__package-express",
+      "unicode": "e239",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__kingdom-club-bellman",
+      "unicode": "e23a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__in-park-info",
+      "unicode": "e23b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__magical-coin-press-machine",
+      "unicode": "e23c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__stroller-parking",
+      "unicode": "e23d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__electric-car-charging-station",
+      "unicode": "e23e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__parade-route-show-area",
+      "unicode": "e23f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__alert",
+      "unicode": "e240",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__checkmark",
+      "unicode": "e241",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__faqs",
+      "unicode": "e242",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__quick-answer",
+      "unicode": "e243",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-parks-blog",
+      "unicode": "e244",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__sms",
+      "unicode": "e245",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__press-center",
+      "unicode": "e246",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__moms-panel",
+      "unicode": "e247",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__park-schedule",
+      "unicode": "e248",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__time",
+      "unicode": "e249",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__privacy-policies",
+      "unicode": "e24a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__terms-conditions",
+      "unicode": "e24b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__accessibility",
+      "unicode": "e24c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__pre-arrival-tips",
+      "unicode": "e24d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__reservations",
+      "unicode": "e24e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__registration",
+      "unicode": "e24f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__help-support",
+      "unicode": "e250",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__learn-more",
+      "unicode": "e251",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__email",
+      "unicode": "e252",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__chat",
+      "unicode": "e253",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__call",
+      "unicode": "e254",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__14-days-notice",
+      "unicode": "e255",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__6-months-notice",
+      "unicode": "e256",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__blackout-days",
+      "unicode": "e257",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__3-days-notice",
+      "unicode": "e258",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__website-support",
+      "unicode": "e259",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__restriction",
+      "unicode": "e25a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__recommendation",
+      "unicode": "e25b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__na-dash",
+      "unicode": "e25c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__magic-morning",
+      "unicode": "e25d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__global-languages",
+      "unicode": "e25e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__good-neighbor-hotel",
+      "unicode": "e25f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__travel-information",
+      "unicode": "e261",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__visiting-with-groups",
+      "unicode": "e262",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__visiting-with-children",
+      "unicode": "e263",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-like-light",
+      "unicode": "e266",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-like-dark",
+      "unicode": "e267",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__written-aids",
+      "unicode": "e268",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__generations-travel",
+      "unicode": "e269",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__10-days-notice",
+      "unicode": "e270",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wdw-ap-blockout-cal",
+      "unicode": "e271",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__empty-chat",
+      "unicode": "e26a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__filled-chat",
+      "unicode": "e26b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__empty-checkbox",
+      "unicode": "e26c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__selected-solid-checkbox",
+      "unicode": "e26d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__selected-disabled",
+      "unicode": "e26e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__indeterminate",
+      "unicode": "e26f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__my-media",
+      "unicode": "e280",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__images",
+      "unicode": "e281",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__videos",
+      "unicode": "e282",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__photo-pass",
+      "unicode": "e283",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__photo-pass-plus",
+      "unicode": "e284",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__media-favorites",
+      "unicode": "e285",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__photo-fun",
+      "unicode": "e286",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-vision",
+      "unicode": "e287",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dvd-cd",
+      "unicode": "e288",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__shdr-photopass",
+      "unicode": "e289",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__monorail",
+      "unicode": "e2c0",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__bus",
+      "unicode": "e2c1",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__car",
+      "unicode": "e2c2",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__boat",
+      "unicode": "e2c3",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__taxi",
+      "unicode": "e2c4",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__flight",
+      "unicode": "e2c5",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__return-flight",
+      "unicode": "e2c6",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__walking",
+      "unicode": "e2c7",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__hkdl-mtr-disney-resort-line",
+      "unicode": "e2ce",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__close-button",
+      "unicode": "e300",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__add-button",
+      "unicode": "e301",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__information",
+      "unicode": "e302",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__share",
+      "unicode": "e303",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__download",
+      "unicode": "e304",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__show-filters",
+      "unicode": "e305",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__hide-filters",
+      "unicode": "e306",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__3d-spin",
+      "unicode": "e307",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__media-play-button",
+      "unicode": "e308",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__media-pause-button",
+      "unicode": "e309",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__pdf",
+      "unicode": "e30a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__duplicate-offer",
+      "unicode": "e30b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__next",
+      "unicode": "e30c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__previous",
+      "unicode": "e30d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__norgie-closed",
+      "unicode": "e30e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__print",
+      "unicode": "e30f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__search",
+      "unicode": "e310",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__calendar-month",
+      "unicode": "e311",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__calendar-day-view",
+      "unicode": "e312",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__more",
+      "unicode": "e313",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__menu-global-nav",
+      "unicode": "e314",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__menus-button",
+      "unicode": "e315",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__norgie-opened",
+      "unicode": "e316",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__upload",
+      "unicode": "e317",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__lists",
+      "unicode": "e318",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__filter",
+      "unicode": "e319",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__scan-barcode",
+      "unicode": "e31a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__keyboard-entry",
+      "unicode": "e31b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__download-mobile-app",
+      "unicode": "e31c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__view-gallery",
+      "unicode": "e31d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__see-info-page-button",
+      "unicode": "e31e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__media-gallery-photo-button",
+      "unicode": "e31f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__media-gallery-video-button",
+      "unicode": "e320",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__refresh",
+      "unicode": "e321",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__compose-message",
+      "unicode": "e322",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__add-contact",
+      "unicode": "e323",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__contact-list",
+      "unicode": "e324",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__norgie-up",
+      "unicode": "e325",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__norgie-left",
+      "unicode": "e326",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__mobile-app",
+      "unicode": "e327",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__home",
+      "unicode": "e328",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__return-arrow",
+      "unicode": "e329",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__share-2",
+      "unicode": "e32a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__delete-button",
+      "unicode": "e32b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__fast-forward-button",
+      "unicode": "e32c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__rewind-button",
+      "unicode": "e32d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__pulldown",
+      "unicode": "e32e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__increase-button",
+      "unicode": "e32f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__decrease-button",
+      "unicode": "e330",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__flip-turn-over",
+      "unicode": "e331",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__previous-2",
+      "unicode": "e332",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__next-2",
+      "unicode": "e333",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__arrow-back",
+      "unicode": "e334",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__arrow-up",
+      "unicode": "e335",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__arrow-down",
+      "unicode": "e336",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__expand-gallery",
+      "unicode": "e337",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__360-video",
+      "unicode": "e338",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__volume-control",
+      "unicode": "e339",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wheelchair-accessibility",
+      "unicode": "e340",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__transfer-from-wheelchair",
+      "unicode": "e341",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__transfer-to-wheelchair",
+      "unicode": "e342",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__transfer-to-wheelchair-then-ride",
+      "unicode": "e343",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__ambulatory",
+      "unicode": "e344",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__visual-impairment",
+      "unicode": "e345",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__hearing-impairment",
+      "unicode": "e346",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__sign-language",
+      "unicode": "e347",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__audio-description",
+      "unicode": "e348",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__handheld-captioning",
+      "unicode": "e349",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__reflective-captioning",
+      "unicode": "e34a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__closed-captioning",
+      "unicode": "e34b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__physicial-consideration-red-yellow",
+      "unicode": "e34c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__scary-consideration-yellow",
+      "unicode": "e34d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dlp-mobility-disabilities",
+      "unicode": "e34e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dlp-hearing-disabilities",
+      "unicode": "e34f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dlp-visual-disabilities",
+      "unicode": "e350",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__photosensitive-epilepsey",
+      "unicode": "e351",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dlp-mental-cognitive-disabilities",
+      "unicode": "e352",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__suitable-for-amputees",
+      "unicode": "e353",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__suitable-for-difficulty-standing",
+      "unicode": "e354",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__capable-of-climbing-steps",
+      "unicode": "e355",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disabilities-services",
+      "unicode": "e356",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disabilities-guide-book",
+      "unicode": "e357",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wheelchari-rental",
+      "unicode": "e358",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disabilities-designated-viewing",
+      "unicode": "e359",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__may-remain-in-wheelchair",
+      "unicode": "e35a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__must-be-ambulatory-2",
+      "unicode": "e35b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__suitable-for-blind",
+      "unicode": "e35c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__suitable-for-autism",
+      "unicode": "e35d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__sign-language-2",
+      "unicode": "e35e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__tactile-maps",
+      "unicode": "e35f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__braille-guide-books",
+      "unicode": "e360",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__suitable-for-learning-disabilities",
+      "unicode": "e361",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__induction-loop",
+      "unicode": "e362",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__dimly-lit-space",
+      "unicode": "e363",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__light-rain-indoors",
+      "unicode": "e364",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__show-contains-bubble",
+      "unicode": "e365",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__hdd-illness",
+      "unicode": "e366",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__gifts",
+      "unicode": "e380",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__character-calls",
+      "unicode": "e381",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__performaing-arts",
+      "unicode": "e382",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__education",
+      "unicode": "e383",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__lock",
+      "unicode": "e384",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__facebook",
+      "unicode": "e385",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__twitter",
+      "unicode": "e386",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__youtube",
+      "unicode": "e387",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__instagram",
+      "unicode": "e388",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__pinterest",
+      "unicode": "e389",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__google-plus",
+      "unicode": "e38a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-cast",
+      "unicode": "e38b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-response",
+      "unicode": "e38c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__genie-lamp",
+      "unicode": "e38d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__thrill-seekers",
+      "unicode": "e38e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__doll",
+      "unicode": "e390",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__front-desk",
+      "unicode": "e391",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__movies",
+      "unicode": "e392",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__unlocked",
+      "unicode": "e393",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__tumblr",
+      "unicode": "e394",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__services",
+      "unicode": "e395",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__old-photopass-plus",
+      "unicode": "e396",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__hkdl-sina-weibo-social",
+      "unicode": "e397",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__hkdl-baidu-tieba-social",
+      "unicode": "e398",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__hkdl-webchat-social",
+      "unicode": "e399",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__disney-wild-about-safety",
+      "unicode": "e39a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__romantic-celebration",
+      "unicode": "e39b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__facebook-icon-alone",
+      "unicode": "e39c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__twitter-icon-alone",
+      "unicode": "e39d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__snapchat",
+      "unicode": "e39e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__winter",
+      "unicode": "e3e4",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__spring",
+      "unicode": "e3e5",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__summer",
+      "unicode": "e3e6",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__autumn",
+      "unicode": "e3e7",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__pack-for-weather",
+      "unicode": "e3e8",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__photopass-attraction-id",
+      "unicode": "e39f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__single-rider",
+      "unicode": "e440",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__atm-china",
+      "unicode": "e441",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-slight-left",
+      "unicode": "e442",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-slight-right",
+      "unicode": "e443",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-turn-left",
+      "unicode": "e444",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-turn-right",
+      "unicode": "e445",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-hard-left",
+      "unicode": "e446",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-hard-right",
+      "unicode": "e447",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-left",
+      "unicode": "e448",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-right",
+      "unicode": "e449",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-forward",
+      "unicode": "e44a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-back",
+      "unicode": "e44b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-forward-back",
+      "unicode": "e44c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-right-left",
+      "unicode": "e44d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-slight-left",
+      "unicode": "e44e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-slight-right",
+      "unicode": "e44f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-turn-left",
+      "unicode": "e450",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-turn-right",
+      "unicode": "e451",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-hard-left",
+      "unicode": "e452",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-hard-right",
+      "unicode": "e453",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-left",
+      "unicode": "e454",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-right",
+      "unicode": "e455",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-forward-left",
+      "unicode": "e456",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-forward-right",
+      "unicode": "e457",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-u-turn-right",
+      "unicode": "e458",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-u-turn-left",
+      "unicode": "e459",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-ramp-left",
+      "unicode": "e45a",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-ramp-right",
+      "unicode": "e45b",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-fork-left",
+      "unicode": "e45c",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-fork-right",
+      "unicode": "e45d",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-about-left",
+      "unicode": "e45e",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-around-about-right",
+      "unicode": "e45f",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__wayfinding-merge",
+      "unicode": "e460",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__cribs-and-playpens",
+      "unicode": "e461",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__baby-care-center2",
+      "unicode": "e462",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__epi-pen",
+      "unicode": "e463",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__mobile-charging-station",
+      "unicode": "e464",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__security-info",
+      "unicode": "e465",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__refrigerator-available",
+      "unicode": "e466",
+      "created": 1
+    },
+
+    {
+      "name": "disney",
+      "id": "icon__unused-character",
+      "unicode": "f8fe",
+      "created": 1
+    }
+  ]
+}
